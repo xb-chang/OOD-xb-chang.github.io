@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiaobin Chang"
-  avatar           : "fat_cat.png"
+  avatar           : "files/fat_cat.png"
   bio              : "Ph.D Student @ QMUL EECS"
   location         : "London E1 4FZ"
   employer         :
