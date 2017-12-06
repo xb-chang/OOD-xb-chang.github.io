@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Em... Still Under Constractions.
+Em... Still Under Constructions.
