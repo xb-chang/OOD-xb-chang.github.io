@@ -1,7 +1,7 @@
 ---
 title: "The Devil is in the Middle: Exploiting Mid-level Representations for Cross-Domain Instance Matching"
 collection: publications
-permalink: /publications/devil_middle
+permalink: /publication/devil_middle
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2017
 venue: 'arXiv'
