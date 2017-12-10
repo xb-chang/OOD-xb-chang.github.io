@@ -1,7 +1,7 @@
 ---
 title: "L1 Graph Based Sparse Model for Label De-noising"
 collection: publications
-permalink: /publications/L1_Graph_Denoise
+permalink: /publication/L1_Graph_Denoise
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2016
 venue: 'BMCV'
