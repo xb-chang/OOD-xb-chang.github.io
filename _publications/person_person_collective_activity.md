@@ -8,7 +8,7 @@ venue: 'IEEE Transactions on Image Processing'
 #paperurl: ''
 #citation: ''
 ---
-[paper](http://isee.sysu.edu.cn/~zhwshi/Research/PreprintVersion/Learning%20Person-Person%20Interaction%20in%20Collective%20Activity%20Recognition.pdf)
+[Download paper here](http://isee.sysu.edu.cn/~zhwshi/Research/PreprintVersion/Learning%20Person-Person%20Interaction%20in%20Collective%20Activity%20Recognition.pdf)
 
 Citation:<br />
 @article{chang2015learning,<br />
