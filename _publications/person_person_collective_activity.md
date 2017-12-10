@@ -1,7 +1,7 @@
 ---
 title: "Learning person–person interaction in collective activity recognition"
 collection: publications
-permalink: /publication/person_person_collective_activity
+permalink: /publications/person_person_collective_activity
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2015
 venue: 'IEEE Transactions on Image Processing'
