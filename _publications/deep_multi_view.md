@@ -1,7 +1,7 @@
 ---
 title: "Deep Multi-View Learning with Stochastic Decorrelation Loss"
 collection: publications
-permalink: /publications/deep_multi_view
+permalink: /publication/deep_multi_view
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2017
 venue: 'arXiv'
