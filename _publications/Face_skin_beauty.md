@@ -1,7 +1,7 @@
 ---
 title: "Facial skin beautification via sparse representation over learned layer dictionary"
 collection: publications
-permalink: /publications/Face_skin_beauty
+permalink: /publication/Face_skin_beauty
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2016
 venue: 'IJCNN'
