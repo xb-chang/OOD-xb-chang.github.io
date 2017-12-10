@@ -2,11 +2,11 @@
 title: "L1 Graph Based Sparse Model for Label De-noising"
 collection: publications
 permalink: /publication/L1_Graph_Denoise
-#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 
 date: 2016
 venue: 'BMCV'
 paperurl: 'http://homepages.inf.ed.ac.uk/thospeda/papers/chang2016robustDenoise.pdf'
-#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 
 ---
 [Download paper here](http://homepages.inf.ed.ac.uk/thospeda/papers/chang2016robustDenoise.pdf)
 
