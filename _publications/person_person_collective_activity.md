@@ -5,7 +5,7 @@ permalink: /publication/person_person_collective_activity
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2015
 venue: 'IEEE Transactions on Image Processing'
-#paperurl: ''
+paperurl: 'http://isee.sysu.edu.cn/~zhwshi/Research/PreprintVersion/Learning%20Person-Person%20Interaction%20in%20Collective%20Activity%20Recognition.pdf'
 #citation: ''
 ---
 [Download paper here](http://isee.sysu.edu.cn/~zhwshi/Research/PreprintVersion/Learning%20Person-Person%20Interaction%20in%20Collective%20Activity%20Recognition.pdf)
