@@ -2,11 +2,11 @@
 title: "Learning person–person interaction in collective activity recognition"
 collection: publications
 permalink: /publication/p-p-interaction-activity
-excerpt: ''
+excerpt: ' '
 date: 2015
 venue: 'IEEE Transactions on Image Processing'
 paperurl: 'http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7055886'
-citation: ''
+citation: ' '
 ---
 [Download paper here](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7055886)
 
