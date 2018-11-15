@@ -1,2 +1,5 @@
 Update the publications at /_pages/publications.htm
 Update personal information at _config.yml
+
+Adding Sections, e.g., Publications and CV at _data/navigation.yml
+Then modifying the corresponding parts at _pages/
