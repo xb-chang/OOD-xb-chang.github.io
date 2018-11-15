@@ -6,3 +6,5 @@ Homepage info is in _pages/about.md
 
 Adding Sections, e.g., Publications and CV, at _data/navigation.yml
 Then modifying the corresponding parts at _pages/
+
+CV and Bibtex are in /files/
