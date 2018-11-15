@@ -1,5 +1,8 @@
+Update personal information (side bars) at _config.yml
+
 Update the publications at /_pages/publications.htm
-Update personal information at _config.yml
+
+Homepage info is in _pages/about.md
 
 Adding Sections, e.g., Publications and CV at _data/navigation.yml
 Then modifying the corresponding parts at _pages/
