@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home page. I am now a Ph.D. Student at [Queen Mary University of London (QMUL)](http://www.qmul.ac.uk/). 
-I am in my final year and looking for a vacancy. This is my [CV](/files/XiaobinCHANG-CV.pdf).
+Welcome to my home page. I was a Ph.D. Student at [Queen Mary University of London (QMUL)](http://www.qmul.ac.uk/). 
+Now I am a Postdoc Researcher at [Simon Fraser University](https://www.sfu.ca/)and work with Professor [Greg Mori](https://www.cs.sfu.ca/~mori/).
 
-My research interests are in Computer Vision (e.g., Human Related Vision Problems) and Machine Learning (e.g., Deep Learning). My current advisors are [Tao Xiang](https://www.eecs.qmul.ac.uk/~txiang/) and [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/). Before coming to UK, I was studying at [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). My advisor was [Wei-Shi Zheng](http://isee.sysu.edu.cn/~zhwshi/).
+My research interests are in Computer Vision (e.g., Vision Problems with Temporal Information) and Machine Learning (e.g., Deep Learning). My advisors were Professor [Tao Xiang](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html) and Dr. [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/). My Master advisor was Professor [Wei-Shi Zheng](http://isee.sysu.edu.cn/~zhwshi/) at [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm).
 
