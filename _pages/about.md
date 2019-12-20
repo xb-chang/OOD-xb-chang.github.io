@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my home page. 
-I am a Postdoc Researcher at [Simon Fraser University](https://www.sfu.ca/)and work with Professor [Greg Mori](https://www.cs.sfu.ca/~mori/).
+I am a Postdoc Researcher at [Simon Fraser University](https://www.sfu.ca/)and work with Professor [Greg Mori](https://www.cs.sfu.ca/~mori/). 
 My research interests are in Computer Vision (e.g., Vision Problems with Temporal Information) and Machine Learning (e.g., Multi-View Problems). 
 
 I was a Ph.D. Student at [Queen Mary University of London (QMUL)](http://www.qmul.ac.uk/).
