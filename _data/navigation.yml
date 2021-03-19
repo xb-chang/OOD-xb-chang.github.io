@@ -4,10 +4,10 @@ main:
   url: /publications/
 
 - title: "关于招生"
-  url: /关于招生/    
+  url: /prospective_student/    
 
-#  - title: "Teaching"
-#   url: /teaching/    
+- title: "Teaching"
+  url: /teaching/    
     
 # - title: "Portfolio"
 #   url: /portfolio/
