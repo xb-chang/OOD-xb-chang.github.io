@@ -13,7 +13,7 @@ Welcome to my home page.
 I am an Assistant Professor at [School of Artificial Intelligence](http://sai.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm)
 My research interests are in Computer Vision (e.g., Action Analysis and Person Re-Identification) and Machine Learning (e.g., Temporal Information Prcessing and Multi-View Problems). 
 
-如果你对我的研究方向感兴趣，有意加入我的团队（作为硕士研究生），请阅读[关于招生]()，欢迎邮件联系和咨询。
+如果你对我的研究方向感兴趣，有意加入我的团队（作为硕士研究生），欢迎邮件联系和咨询。
 （If you are interested in my research or joining my group (as a Master student), please contact me via email.）
 
 I was a postdoc researcher of [Simon Fraser University](https://www.sfu.ca/) and work with Professor [Greg Mori](https://www.cs.sfu.ca/~mori/).
