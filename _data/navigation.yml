@@ -3,8 +3,8 @@ main:
 - title: "Publications"
   url: /publications/
 
-#  - title: "Talks"
-#    url: /talks/    
+- title: "关于招生"
+  url: /关于招生/    
 
 #  - title: "Teaching"
 #   url: /teaching/    
