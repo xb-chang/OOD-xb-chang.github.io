@@ -1,10 +1,10 @@
 ---
-title: "离散数学（Discrete Math）"
+title: "Teaching experience 1"
 collection: teaching
-type: "本科生专业课"
-# permalink: /teaching/2014-spring-teaching-1
-venue: "中山大学（SYSU）"
-date: 2021-02
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
 location: "珠海"
 ---
 
